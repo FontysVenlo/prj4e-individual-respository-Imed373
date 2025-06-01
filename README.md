@@ -12,4 +12,4 @@ Diagrams: [(Link)](/doc/diagrams/)
 
 Websites / YouTube Videos: [(Link)](/doc/webites-and-videos/)  
 
-3d-Models: [(Link)](/3d-models/)  
+3d-Models: [(Link)](/doc/3d-models/)  
